@@ -33,12 +33,4 @@ Le projet est structuré autour de composants clés d'Android :
 ## Demonstration:
 ![Video](https://github.com/user-attachments/assets/17d8ad75-8cbc-46dc-b5ca-cf672592a67b)
 
-## 🔧 Installation
 
-1.  Clonez ce dépôt ou importez les fichiers dans Android Studio.
-2.  Synchronisez le projet avec les fichiers Gradle.
-3.  Lancez sur un émulateur ou un appareil physique.
-    *   *Note : N'oubliez pas d'accepter la permission de notification au premier lancement sur Android 13+.*
-
----
-*Développé dans le cadre d'un tutoriel sur les Services Android.*
