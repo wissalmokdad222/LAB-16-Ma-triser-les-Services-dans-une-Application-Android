@@ -32,5 +32,5 @@ Le projet est structuré autour de composants clés d'Android :
 
 ## Demonstration:
 ![Video](https://github.com/user-attachments/assets/17d8ad75-8cbc-46dc-b5ca-cf672592a67b)
-
+![](https://github.com/user-attachments/assets/7c8e336a-96dc-4478-9500-c6cc09f60e2e)
 
